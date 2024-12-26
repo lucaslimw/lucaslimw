@@ -1,7 +1,13 @@
 # Hi there, I'm Lucas 👋
-**Agronomist** from the Federal University of Acre (UFAC). Member of the Amazon Biosystems Engineering Studies Center (CEBAMS), whose lines of research include: **Water resource management in river basins**; Meteorology applied to agricultural systems; Irrigation and drainage in humid environments and Data science applied to biosystems engineering. I'm currently a master's student in the Postgraduate Program in Tropical and Subtropical Agriculture at the **Agronomic Institute** of Campinas - IAC, developing research in the area of hydrological modeling using the Soil and Water Assessment Tool (SWAT) model.
+- **Agronomist** from the Federal University of Acre (UFAC). 
+- I'm currently a master's student in the Postgraduate Program in Tropical and Subtropical Agriculture at the **Agronomic Institute** of Campinas - IAC.
+---
+<div> 
+  <a href="http://lattes.cnpq.br/8356425764473365" target="_blank"><img src="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg" alt="drawing" width="60" target="_blank"></a>
+  <a href="https://orcid.org/0000-0003-3376-3664" target="_blank"><img src="https://github.com/jpswalsh/academicons/blob/master/svg/orcid.svg" alt="drawing" width="65" target="_blank"></a>
+</div>  
 
-
+---
 <a href="https://github.com/hgkdo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslimw&show_icons=true&theme=dark" />
 </a>
