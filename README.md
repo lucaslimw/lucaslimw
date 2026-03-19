@@ -8,10 +8,10 @@
 </div>  
 
 ---
-<a href="https://github.com/hgkdo/github-readme-stats">
+<a href="https://github.com/lucaslimw/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslimw&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/hgkdo/convoychat">
+<a href="https://github.com/lucaslimw/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimw&layout=compact" />
 </a>
 
