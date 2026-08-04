@@ -15,9 +15,6 @@
   <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaslimw&layout=compact" />
 </a>
 
-- ...and development time:
-
-  [![Lucas's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=lucaslimw&langs_count=6)](https://wakatime.com/@lucaslimw)
 
 
 
