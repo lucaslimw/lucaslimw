@@ -9,10 +9,10 @@
 
 ---
 <a href="https://github.com/lucaslimw/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslimw&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=lucaslimw&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lucaslimw/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimw&layout=compact" />
+  <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaslimw&layout=compact" />
 </a>
 
 
