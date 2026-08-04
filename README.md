@@ -8,13 +8,16 @@
 </div>  
 
 ---
-<a href="https://github.com/lucaslimw/github-readme-stats">
+<a href="https://github.com/lucaslimw/github-stats-extended.vercel.app/api?username=lucaslimw">
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=lucaslimw&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lucaslimw/convoychat">
   <img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaslimw&layout=compact" />
 </a>
 
+- ...and development time:
+
+  [![Lucas's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=lucaslimw&langs_count=6)](https://wakatime.com/@lucaslimw)
 
 
 
